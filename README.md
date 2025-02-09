@@ -29,8 +29,7 @@ Hello
 
 ![CRO-THEHACKER Stats](https://github-readme-stats.vercel.app/api?username=21mam&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21mam&layout=compact&theme=tokyonight_duo)](https://github.com/anuraghazra/github-readme-stats)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=21mam&size_weight=0.5&count_weight=0.5
 
 
 
