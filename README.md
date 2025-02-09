@@ -14,7 +14,7 @@ Hello
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=CRO-THEHACKER&style=flat-square&color=blue)
+![]()
 
 <div id="about" align="left">
 
