@@ -15,7 +15,7 @@ Hello
 </div>
 
 <div id="about" align="left">
-💫 About Me : 
+##💫 About Me : 
 
  - I am CSE student passionate about software engineer.
  - Playing video games is a small past-time of mine
