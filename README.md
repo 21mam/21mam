@@ -27,6 +27,8 @@ Hello
 
 </div>
 
+![CRO-THEHACKER Stats](https://github-readme-stats.vercel.app/api?username=CRO-THEHACKER&show_icons=true&theme=tokyonight)
+
 
 
 ![Header Image](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
