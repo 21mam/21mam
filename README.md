@@ -22,7 +22,7 @@ Hello
 
  - I am a CSE engineer passionate about Software Engineer.
  - Playing vide games is a small past-time of mine.
- - Experience in . 
+ - Experience in _________. 
  - I love to network and making new connections.  
 
 </div>
