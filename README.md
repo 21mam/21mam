@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
