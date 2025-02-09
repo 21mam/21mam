@@ -20,9 +20,9 @@ Hello
 
 ### About Me : 
 
- - Been programming in python for 7 years, a full-stack web developer for 4 years and recently programming in Ruby/Ruby On Rails for a year.
- - Engine mechanics and engineering is a small past-time of mine, from replacing a head gasket to building a mini bike.
- - Experience in core cloud infrastructure, networking and Dev-Ops. 
+ - I am a CSE engineer passionate about Software Engineer.
+ - Playing vide games is a small past-time of mine.
+ - Experience in . 
  - I love to network and making new connections.  
 
 </div>
