@@ -14,13 +14,19 @@ Hello
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=CRO-THEHACKER&style=flat-square&color=blue)
 
+<div id="about" align="left">
 
-###💫 About Me : 
-I am CSE student passionate about software engineer.
-Playing video games is a small past-time of mine
-Experience in _____________________.
-I love to network and making new connections.
+### About Me : 
+
+ - Been programming in python for 7 years, a full-stack web developer for 4 years and recently programming in Ruby/Ruby On Rails for a year.
+ - Engine mechanics and engineering is a small past-time of mine, from replacing a head gasket to building a mini bike.
+ - Experience in core cloud infrastructure, networking and Dev-Ops. 
+ - I love to network and making new connections.  
+
+</div>
+
 
 
 ![Header Image](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
