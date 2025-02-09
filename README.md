@@ -14,12 +14,14 @@ Hello
 
 </div>
 
+<div id="about" align="left">
 ### 💫 About Me : 
 
  - I am CSE student passionate about software engineer.
  - Playing video games is a small past-time of mine
  - Experience in _____________________.
- - I love to network and making new connections.  
+ - I love to network and making new connections.
+</div>  
 
 ![Header Image](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
