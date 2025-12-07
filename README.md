@@ -22,7 +22,7 @@ Hello
 
  - I am a CSE engineer passionate about Software Engineer.
  - Playing vide games is a small past-time of mine.
- - Experience in _________. 
+ - Experience in SOLVIO Ai hackathon round 2 Qualifier . 
  - I love to network and making new connections.  
 
 </div>
